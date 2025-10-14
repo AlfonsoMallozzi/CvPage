@@ -1,8 +1,11 @@
-# Webpage
-Hi :), if u are seeing this, is because u have reached the repository of my CV!
 
+  # Web Developer Portfolio
 
-Feel free to look around and scrap whatever you need, or have new ideas. Honestly, i don't mind u copying this and pasting it.
+  This is a code bundle for Web Developer Portfolio. The original project is available at https://www.figma.com/design/EImyZCQ7vuOE8p07FFeqA7/Web-Developer-Portfolio.
 
-AND if u are not a webscrapper, take a look of my page :D
-alfonsomorales.wiki
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
