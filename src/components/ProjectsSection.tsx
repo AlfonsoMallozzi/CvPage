@@ -19,24 +19,24 @@ export function ProjectsSection() {
 
   const projects = [
     {
-      title: 'Unity Game "Pedro No Quiere Pagar Impuestos"',
-      description: 'Developed a card game where you defend your business from the yakuza by buying them out with great food, using different combinations of foods.',
-      image: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600&h=400&fit=crop',
-      technologies: ['C#', 'Unity'],
+      title: 'Fintech Business analysis AI Tool (Y&M)',
+      description: 'Builded a web application that utilizes OpenAI to analyze and generate insights from financial data for business decision-making and investment strategies.',
+      image: 'https://files.catbox.moe/r1dopa.png',
+      technologies: ['React', 'MongoDB','OPENAI'],
+      github: 'https://github.com/AlfonsoMallozzi/Finsight',
       featured: true
     },
     {
-      title: 'CyberThreats Game',
-      description: 'Built a web game where you choose a team (blue or red) and fight each other, red teaming and blue teaming via questions and special skills.',
-      image: 'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop',
-      technologies: ['React.js', 'Tailwind', 'Supabase'],
-      github: 'https://github.com/AlfonsoMallozzi/BrainFight',
+      title: 'SIEM Wazuh Local Lab',
+      description: 'Deployed a local Wazuh SIEM lab using Docker to monitor and analyze security events from multiple endpoints, enhancing threat detection and response capabilities.',
+      image: 'https://files.catbox.moe/rby4t4.png',
+      technologies: ['Wazuh'],
       featured: true
     },
     {
       title: 'Decentralized Crowdfunding Webpage',
       description: 'Leveraged MetaMask API to enable Ethereum transactions in a decentralized crowdfunding platform.',
-      image: 'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&h=400&fit=crop',
+      image: 'https://files.catbox.moe/ls139r.jpeg',
       technologies: ['React', 'Web3.js', 'MetaMask', 'Ethereum'],
       featured: false
     },
