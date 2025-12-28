@@ -8,13 +8,13 @@ export function AboutSection() {
   const features = [
     {
       icon: Code,
-      title: 'Binary Analysis',
-      description: 'Deep dive into malware analysis using Binary Ninja, identifying threats and understanding low-level code execution.'
+      title: 'Security Analysis',
+      description: 'Passionate about security research, specializing in reverse engineering malware using Binary Ninja to uncover vulnerabilities.'
     },
     {
       icon: Lightbulb,
       title: 'Sandbox Testing',
-      description: 'Utilizing Cuckoo and any.run to analyze suspicious files in isolated environments and track malicious behavior.'
+      description: 'Experienced in using virtual sandboxes for behavioral analysis of suspicious files, leveraging from automated tools'
     },
     {
       icon: Users,
